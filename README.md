@@ -121,7 +121,7 @@ git clone https://github.com/yourusername/sift-satellite-matching.git
 cd sift-satellite-matching
 
 pip install -r requirements.txt
-streamlit run app/ui_v3.py
+python -m streamlit run Ui.py  
 ```
 
 Keypoint visualization
